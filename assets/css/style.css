@@ -1,0 +1,53 @@
+.ana{
+    height: 100vh;
+    background-color: beige;
+    display:flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    
+    
+    
+}
+
+.ana div{
+    height: 100px;
+    width: 33.3%;
+    
+    
+}
+
+
+.bala-1{
+    background-color: red;
+    
+
+}
+
+.bala-2{
+    background-color: blue;
+
+
+}
+
+.bala-3{
+    background-color: green;
+
+}
+
+.bala-4{
+    background-color: brown;
+ 
+
+}
+
+.bala-5{
+    background-color: grey;
+
+}
+
+.bala-6{
+    background-color: aquamarine;
+    
+
+
+}
