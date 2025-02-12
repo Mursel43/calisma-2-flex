@@ -1,0 +1,2 @@
+# Flex üzərə çalışma
+deməli bu çalışmada flex üzərində bir iki praktik etməyə çalışdım bundan sonraki repostuomda praktiki iş gələcəy yəni bundan biraz daha böyüy lahiyə öyrəndiklərimi praktika edib bura yazmagdan yəni gitHub hesabımda paylaşmağdan ləzzət alıram bundan daha böyük naliyətlərə doğru!
